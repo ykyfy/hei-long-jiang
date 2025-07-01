@@ -17,6 +17,60 @@ http://218.8.87.96:4000/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
 http://218.8.87.96:4000/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
+http://221.206.57.234:4022/rtp/229.58.190.14:5000
+#EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
+http://221.206.57.234:4022/rtp/229.58.190.16:5000
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
+http://221.206.57.234:4022/rtp/229.58.190.39:5000
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="央视高清",黑龙江文体
+http://221.206.57.234:4022/rtp/229.58.190.30:5000
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="央视高清",黑龙江都市
+http://221.206.57.234:4022/rtp/229.58.190.34:5000
+#EXTINF:-1 tvg-id="HRBTV1" tvg-name="HRBTV1" tvg-logo="https://live.fanmingming.com/tv/HRBTV1.png" group-title="央视高清",HRBTV1
+http://221.206.57.234:4022/rtp/229.58.190.195:5000
+#EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/佳木斯新闻综合.png" group-title="央视高清",佳木斯新闻综合
+http://221.206.57.234:4022/rtp/229.58.190.163:5000
+#EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
+http://221.206.57.234:4022/rtp/229.58.190.193:5000
+#EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
+http://221.206.57.234:4022/rtp/229.58.190.171:5000
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
+http://221.206.57.193:4022/rtp/229.58.190.14:5000
+#EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
+http://221.206.57.193:4022/rtp/229.58.190.16:5000
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
+http://221.206.57.193:4022/rtp/229.58.190.39:5000
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="央视高清",黑龙江文体
+http://221.206.57.193:4022/rtp/229.58.190.30:5000
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="央视高清",黑龙江都市
+http://221.206.57.193:4022/rtp/229.58.190.34:5000
+#EXTINF:-1 tvg-id="HRBTV1" tvg-name="HRBTV1" tvg-logo="https://live.fanmingming.com/tv/HRBTV1.png" group-title="央视高清",HRBTV1
+http://221.206.57.193:4022/rtp/229.58.190.195:5000
+#EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/佳木斯新闻综合.png" group-title="央视高清",佳木斯新闻综合
+http://221.206.57.193:4022/rtp/229.58.190.163:5000
+#EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
+http://221.206.57.193:4022/rtp/229.58.190.193:5000
+#EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
+http://221.206.57.193:4022/rtp/229.58.190.171:5000
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
+http://113.0.15.226:4000/rtp/229.58.190.14:5000
+#EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
+http://113.0.15.226:4000/rtp/229.58.190.16:5000
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
+http://113.0.15.226:4000/rtp/229.58.190.39:5000
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="央视高清",黑龙江文体
+http://113.0.15.226:4000/rtp/229.58.190.30:5000
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="央视高清",黑龙江都市
+http://113.0.15.226:4000/rtp/229.58.190.34:5000
+#EXTINF:-1 tvg-id="HRBTV1" tvg-name="HRBTV1" tvg-logo="https://live.fanmingming.com/tv/HRBTV1.png" group-title="央视高清",HRBTV1
+http://113.0.15.226:4000/rtp/229.58.190.195:5000
+#EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/佳木斯新闻综合.png" group-title="央视高清",佳木斯新闻综合
+http://113.0.15.226:4000/rtp/229.58.190.163:5000
+#EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
+http://113.0.15.226:4000/rtp/229.58.190.193:5000
+#EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
+http://113.0.15.226:4000/rtp/229.58.190.171:5000
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
 http://1.58.246.150:4000/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
 http://1.58.246.150:4000/rtp/229.58.190.16:5000
@@ -34,24 +88,6 @@ http://1.58.246.150:4000/rtp/229.58.190.163:5000
 http://1.58.246.150:4000/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
 http://1.58.246.150:4000/rtp/229.58.190.171:5000
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
-http://1.190.144.178:4001/rtp/229.58.190.14:5000
-#EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
-http://1.190.144.178:4001/rtp/229.58.190.16:5000
-#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
-http://1.190.144.178:4001/rtp/229.58.190.39:5000
-#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="央视高清",黑龙江文体
-http://1.190.144.178:4001/rtp/229.58.190.30:5000
-#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="央视高清",黑龙江都市
-http://1.190.144.178:4001/rtp/229.58.190.34:5000
-#EXTINF:-1 tvg-id="HRBTV1" tvg-name="HRBTV1" tvg-logo="https://live.fanmingming.com/tv/HRBTV1.png" group-title="央视高清",HRBTV1
-http://1.190.144.178:4001/rtp/229.58.190.195:5000
-#EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/佳木斯新闻综合.png" group-title="央视高清",佳木斯新闻综合
-http://1.190.144.178:4001/rtp/229.58.190.163:5000
-#EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
-http://1.190.144.178:4001/rtp/229.58.190.193:5000
-#EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
-http://1.190.144.178:4001/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
 http://1.58.246.150:4001/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
@@ -71,41 +107,23 @@ http://1.58.246.150:4001/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
 http://1.58.246.150:4001/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
-http://1.190.144.178:4000/rtp/229.58.190.14:5000
+http://1.58.243.169:4001/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
-http://1.190.144.178:4000/rtp/229.58.190.16:5000
+http://1.58.243.169:4001/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
-http://1.190.144.178:4000/rtp/229.58.190.39:5000
+http://1.58.243.169:4001/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="央视高清",黑龙江文体
-http://1.190.144.178:4000/rtp/229.58.190.30:5000
+http://1.58.243.169:4001/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="央视高清",黑龙江都市
-http://1.190.144.178:4000/rtp/229.58.190.34:5000
+http://1.58.243.169:4001/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="HRBTV1" tvg-name="HRBTV1" tvg-logo="https://live.fanmingming.com/tv/HRBTV1.png" group-title="央视高清",HRBTV1
-http://1.190.144.178:4000/rtp/229.58.190.195:5000
+http://1.58.243.169:4001/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/佳木斯新闻综合.png" group-title="央视高清",佳木斯新闻综合
-http://1.190.144.178:4000/rtp/229.58.190.163:5000
+http://1.58.243.169:4001/rtp/229.58.190.163:5000
 #EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
-http://1.190.144.178:4000/rtp/229.58.190.193:5000
+http://1.58.243.169:4001/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
-http://1.190.144.178:4000/rtp/229.58.190.171:5000
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
-http://1.188.141.163:4022/rtp/229.58.190.14:5000
-#EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
-http://1.188.141.163:4022/rtp/229.58.190.16:5000
-#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
-http://1.188.141.163:4022/rtp/229.58.190.39:5000
-#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="央视高清",黑龙江文体
-http://1.188.141.163:4022/rtp/229.58.190.30:5000
-#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="央视高清",黑龙江都市
-http://1.188.141.163:4022/rtp/229.58.190.34:5000
-#EXTINF:-1 tvg-id="HRBTV1" tvg-name="HRBTV1" tvg-logo="https://live.fanmingming.com/tv/HRBTV1.png" group-title="央视高清",HRBTV1
-http://1.188.141.163:4022/rtp/229.58.190.195:5000
-#EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/佳木斯新闻综合.png" group-title="央视高清",佳木斯新闻综合
-http://1.188.141.163:4022/rtp/229.58.190.163:5000
-#EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
-http://1.188.141.163:4022/rtp/229.58.190.193:5000
-#EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
-http://1.188.141.163:4022/rtp/229.58.190.171:5000
+http://1.58.243.169:4001/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
 http://1.58.243.169:4000/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
@@ -125,23 +143,23 @@ http://1.58.243.169:4000/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
 http://1.58.243.169:4000/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
-http://1.58.243.169:4001/rtp/229.58.190.14:5000
+http://1.62.96.53:4001/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
-http://1.58.243.169:4001/rtp/229.58.190.16:5000
+http://1.62.96.53:4001/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
-http://1.58.243.169:4001/rtp/229.58.190.39:5000
+http://1.62.96.53:4001/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="央视高清",黑龙江文体
-http://1.58.243.169:4001/rtp/229.58.190.30:5000
+http://1.62.96.53:4001/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="央视高清",黑龙江都市
-http://1.58.243.169:4001/rtp/229.58.190.34:5000
+http://1.62.96.53:4001/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="HRBTV1" tvg-name="HRBTV1" tvg-logo="https://live.fanmingming.com/tv/HRBTV1.png" group-title="央视高清",HRBTV1
-http://1.58.243.169:4001/rtp/229.58.190.195:5000
+http://1.62.96.53:4001/rtp/229.58.190.195:5000
 #EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/佳木斯新闻综合.png" group-title="央视高清",佳木斯新闻综合
-http://1.58.243.169:4001/rtp/229.58.190.163:5000
+http://1.62.96.53:4001/rtp/229.58.190.163:5000
 #EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
-http://1.58.243.169:4001/rtp/229.58.190.193:5000
+http://1.62.96.53:4001/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
-http://1.58.243.169:4001/rtp/229.58.190.171:5000
+http://1.62.96.53:4001/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
 http://1.62.96.53:4000/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
@@ -160,24 +178,6 @@ http://1.62.96.53:4000/rtp/229.58.190.163:5000
 http://1.62.96.53:4000/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
 http://1.62.96.53:4000/rtp/229.58.190.171:5000
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
-http://1.62.96.53:4001/rtp/229.58.190.14:5000
-#EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
-http://1.62.96.53:4001/rtp/229.58.190.16:5000
-#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
-http://1.62.96.53:4001/rtp/229.58.190.39:5000
-#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="央视高清",黑龙江文体
-http://1.62.96.53:4001/rtp/229.58.190.30:5000
-#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="央视高清",黑龙江都市
-http://1.62.96.53:4001/rtp/229.58.190.34:5000
-#EXTINF:-1 tvg-id="HRBTV1" tvg-name="HRBTV1" tvg-logo="https://live.fanmingming.com/tv/HRBTV1.png" group-title="央视高清",HRBTV1
-http://1.62.96.53:4001/rtp/229.58.190.195:5000
-#EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/佳木斯新闻综合.png" group-title="央视高清",佳木斯新闻综合
-http://1.62.96.53:4001/rtp/229.58.190.163:5000
-#EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
-http://1.62.96.53:4001/rtp/229.58.190.193:5000
-#EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
-http://1.62.96.53:4001/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="央视高清",黑龙江影视
 #EXTINF:-1 tvg-id="黑龙江新闻法制" tvg-name="黑龙江新闻法制" tvg-logo="https://live.fanmingming.com/tv/黑龙江新闻法制.png" group-title="央视高清",黑龙江新闻法制
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="央视高清",黑龙江少儿
